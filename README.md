@@ -39,3 +39,8 @@ Attempted to create and add functional JavaScript,
 Project was going well, HTML and CSS seem to be in working order, what was created for JS seems to be functional but incomplete. Links to assignment will be listed in section below.
 
 ## Assignment Links
+
+Webpage Link - https://rinortega.github.io/Weather-Dashboard/
+
+GitHub Link -
+https://github.com/RinOrtega/Weather-Dashboard
